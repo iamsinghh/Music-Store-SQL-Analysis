@@ -255,4 +255,4 @@ Music-Store-SQL-Analysis/
 
 **Aman Singh**
 
-Aspiring Data Analyst | SQL | Excel | Power BI | Python (Learning)
+Data Analyst | SQL | Excel | Power BI | Python
