@@ -1,12 +1,21 @@
-# Music Store SQL Analysis
+<h1 align="center">Music Store SQL Analysis</h1>
 
-A SQL-based data analysis project using **MySQL** to analyze the Chinook Music Store database and solve real-world business problems through SQL querying and analytical techniques.
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-0F172A?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Window%20Functions-334155?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Business%20Analytics-475569?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+</p>
+
+<p align="center">
+Built using <b>MySQL</b> to analyze the <b>Chinook Music Store Database</b> and solve real-world business problems through SQL querying and analytical techniques.
+</p>
 
 ---
 
 ## 📌 Project Overview
 
-This project explores customer behavior, sales performance, music genres, artists, and revenue trends using SQL. The objective is to answer business-oriented questions by applying SQL concepts such as joins, aggregations, subqueries, Common Table Expressions (CTEs), and window functions.
+This project explores **customer behavior, sales performance, music genres, artists, and revenue trends** using SQL. The objective is to answer business-oriented questions by applying SQL concepts such as **joins, aggregations, subqueries, Common Table Expressions (CTEs), and window functions**.
 
 ---
 
@@ -223,10 +232,10 @@ ORDER BY total_spent DESC;
 
 ## 💡 Key Insights
 
-- Rock is the most popular genre across the majority of countries.
-- Led Zeppelin has the highest number of Rock tracks in the dataset.
-- Customer spending patterns vary across different countries.
-- Window functions were used to identify top-performing customers and genres.
+- **Rock** is the **most popular genre** across the majority of countries.
+- **Led Zeppelin** has the **highest number of Rock tracks** in the dataset.
+- **Customer spending patterns** vary across different countries.
+- **Window functions** were used to identify top-performing customers and genres.
 - SQL can be effectively used to solve business-oriented analytical problems.
 
 ---
@@ -253,6 +262,9 @@ Music-Store-SQL-Analysis/
 
 ## 👨‍💻 Author
 
-**Aman Singh**
+### **Aman Singh**
 
 Data Analyst | SQL | Excel | Power BI | Python
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-singh-851434284)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamsinghh)
